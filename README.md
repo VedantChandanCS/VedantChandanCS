@@ -2,7 +2,6 @@
 
 🎓 Final-year Computer Science Engineering student  
 💡 Passionate about AI/ML | Data Science | 
-
 📍 Mumbai, India  
 📬 vedantchandan123@gmail.com  
 
