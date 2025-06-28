@@ -2,8 +2,7 @@
 
 🎓 Final-year Computer Science Engineering student  
 💡 Passionate about AI/ML | Data Science |                          
-📍 Mumbai, India  
-📬 vedantchandan123@gmail.com  
+📍 Mumbai, India   
 
 ---
 
@@ -26,5 +25,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/vedant-chandan)
-- 📁 [GitHub Projects](https://github.com/VedantChandanCS)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-chandan)
+[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vedantchandan123@gmail.com)
+
+
