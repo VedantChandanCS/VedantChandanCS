@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Vedant Chandan
 
 🎓 Final-year Computer Science Engineering student  
-💡 Passionate about AI/ML | Data Science |                          📍 Mumbai, India  
+💡 Passionate about AI/ML | Data Science |                          
+📍 Mumbai, India  
 📬 vedantchandan123@gmail.com  
 
 ---
